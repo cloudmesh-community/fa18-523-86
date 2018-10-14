@@ -3,4 +3,15 @@ owner:
   firstname: "Jeff"
   lastname: "Liu"
   hid: "jeffliuhai"
-  community: "specify here e534, i523"
+  community: "e534"
+technologies:
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cloudability.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/facebook-tao.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/gffs.md
+  - https://github.com/cloudmesh/technologies/blob/master/chapters/tech/saltstack.md
+paper:
+  - title: "TBD"
+    group: fa18-523-86
+project:
+  - title: TBD
+    group: fa18-523-86    
