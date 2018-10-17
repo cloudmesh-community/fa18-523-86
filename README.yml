@@ -11,7 +11,10 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/saltstack.md
 paper:
   - title: "TBD"
-    group: fa18-523-86
+    keyword: N/A
+    url: https://github.com/cloudmesh-community/fa18-523-86/tree/master/paper/paper.md
 project:
   - title: TBD
-    group: fa18-523-86    
+    keyword: TBD
+    url: https://github.com/cloudmesh-community/fa18-523-56/blob/master/project-report/report.md
+    group: fa18-523-86   
