@@ -2,8 +2,9 @@
 owner:
   firstname: "Jeff"
   lastname: "Liu"
-  hid: "jeffliuhai"
-  community: "e534"
+   hid: "fa18-523-86"
+  community: "i523"
+  semester: fa18
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cloudability.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/facebook-tao.md
