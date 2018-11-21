@@ -1,4 +1,4 @@
-# SAP :smiley: fa18-523-86
+# SAP :wave: fa18-523-86
 
 | Jeff Liu
 | liujeff@iu.edu
