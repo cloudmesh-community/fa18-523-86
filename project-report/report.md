@@ -46,6 +46,7 @@ With B2B ecommerce adoption hitting an inflection point, companies operating glo
 According to research presented in an INFOGRAPHIC created by The Economist Intelligence Unit, the gains from digital supply chains are impressive:
 *	Today, 22% of manufacturing executives have “complete visibility” into their supply chains, up from 9% in 2013.
 *	44% of senior executives say their supply-chain function uses sophisticated tools that leverage big data to help with day-to-day decision making.
+
 Cloud-based supply chain solutions and business networks present great options for strategically tackling this problem by providing a robust, unified platform that enables close collaboration.
 According to research by SAP Ariba, collaborative supply networks deliver quantifiable business value, including:
 *	60% improvement in order accuracy
