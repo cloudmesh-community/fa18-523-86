@@ -7,7 +7,13 @@
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-86/blob/master/paper/paper.md)
 
 
+:o: please use proper markdown
 
+:o: please check the epub
+
+:o: merge abstract into introduction as the paper is too short to justify an abstract
+
+:o: collection of bullet points rather than document
 
 ## Abstract
 
@@ -24,6 +30,7 @@ SAP (Systems Applications and Products in Data Processing) is ERP software, from
 SAP Modules and Functions:
 There are 2 Types of SAP ERP Modules. Number one is Functional Modules and second one is Technical Modules. All SAP Modules integrated with each other with functionality and provide us best solution for Business[@fa18-523-86-www-SAP-ERP-Module].
 Most important SAP Modules that Bunnies implement for their business are
+
 *	SAP FICO module
 * Human Resource Management (SAP HRM), also known as Human Resource (HR)
 *	Production Planning (SAP PP)
@@ -36,6 +43,7 @@ Most important SAP Modules that Bunnies implement for their business are
 *	Quality Management (SAP QM)	 security module[@fa18-523-86-www-SAP-Module].
 
 SAP Functions:
+
 *	SAP Business Objects provides comprehensive business intelligence capabilities that give users the ability to make effective and informed decisions based on solid data and analysis results. All users from high-level analysts to ordinary business users have access to the information they need, with less IT support[@fa18-523-86-www-SAP-BI].
 *	SAP CRM can help you reduce costs and improve decision making while helping enterprises differentiate to gain a long-term competitive advantage. It helps to increase the competitive advantage and bring higher profits[@fa18-523-86-www-SAP-CRM]. 
 *	SAP Business Objects Information Management provides comprehensive information management capabilities to help deliver consolidated enterprise data in a timely and accurate manner, both structured and unstructured. it helps users provide data for key action plans such as business transaction processing, business intelligence, data warehousing, data migration, and master data management 
