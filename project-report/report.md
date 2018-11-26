@@ -1,4 +1,4 @@
-# Topic: Big data in SAP Ariba  :smiley: fa18-523-86
+# Topic: Big data in SAP Ariba  :hand: fa18-523-86
 
 | Jeff Liu
 | liujeff@iu.edu
@@ -6,12 +6,6 @@
 | hid: fa18-523-86
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-86/blob/master/project-report/report.md)
 
-
-**:mortar_board: Learning Objectives**
-
-* Learn about Big Data Applications
-
----
 
 Keywords: Big Data
 
