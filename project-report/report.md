@@ -9,7 +9,6 @@
 
 Keywords: Big Data
 
-*Project Structure from piazza*
 ## Abstract
 We’re in the midst of a big data revolution. Around the world 2.5 quintillion bytes of data is produced daily. That’s a mind-boggling amount. And how about this: approximately 90% of the world’s data was generated in the last two years alone. For years, companies have been collecting and analyzing massive amounts of information – everything from structured data on production, marketing, sales, HR, finance, facilities and operations to transaction-level data on suppliers, customers and partners. 
 The explosion of data created has led organizations into a period of necessary innovation. The imperative to transform this data into intelligent insights has never been greater and no industry or line of business is immune from the big data revolution. It therefore comes as no surprise that Procurement is turning to big data to drive digital change [@fa18-523-86-www-Ariba-BigData].
@@ -62,5 +61,3 @@ Today, most procurement organizations are faced with three core challenges when 
 Advances in technology and new concepts like intelligent computing fueled by SAP Leonardo provide ample opportunities to predict and respond more effectively to customer and market demands. This insight can guide buyers or requesters to create request for information or a contract template based on potentially unlimited amounts of information analyzed across multiple databases. Connecting people and information guided by “intelligent” procurement systems will fundamentally change how companies buy and sell[fa18-523-86-www-Ariba-BigData].
 Conclusion
 The digitalization of business is real, and it is here to stay. The combination of new technologies and skilled talent working with intelligent systems may provide the competitive edge that businesses need to stay ahead of competitors in the market. But it will also fundamentally elevate the importance of procurement to providing guidance on innovations, mitigating risks and securing a sustainable supply chain. As with any revolution there will be winners and losers and those that make the most of big data will come out on top.
-
-
