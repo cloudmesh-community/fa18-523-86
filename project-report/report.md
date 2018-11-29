@@ -62,13 +62,8 @@ The Ariba Procurement Content Solution has a single user interface and is integr
 ## Conclusion
 
 Today, most procurement organizations are faced with three core challenges when working with big data:
-
 *	Digitising processes: The first challenge for procurement is to access unstructured data that resides in scanned documents, email inboxes and spreadsheets. The key to unlocking the data’s potential is to ensure it is stored in a digital format that can be analyzed.
 *	Driving insights: It is then vital to be able to analyses and utilize the digitized data. Human limitations, such as skills and time, as well as technical challenges can hinder find patterns, process the information intelligently and accurately, and derive insights. Customers are challenged to figure out how to tap into cognitive capabilities and build them into their processes.
 *	Enabling talent and skills: Once this is in place organizations need to foster a change in culture and mindset that will help them embrace these disruptive technologies. Big data, predictive analytics and cognitive computing require new skills and new ways of working, such as self-service analytics.
-
 Advances in technology and new concepts like intelligent computing fueled by SAP Leonardo provide ample opportunities to predict and respond more effectively to customer and market demands. This insight can guide buyers or requesters to create request for information or a contract template based on potentially unlimited amounts of information analyzed across multiple databases. Connecting people and information guided by “intelligent” procurement systems will fundamentally change how companies buy and sell[fa18-523-86-www-Ariba-BigData].
-
-# Conclusion :o: why two
-
 The digitalization of business is real, and it is here to stay. The combination of new technologies and skilled talent working with intelligent systems may provide the competitive edge that businesses need to stay ahead of competitors in the market. But it will also fundamentally elevate the importance of procurement to providing guidance on innovations, mitigating risks and securing a sustainable supply chain. As with any revolution there will be winners and losers and those that make the most of big data will come out on top.
