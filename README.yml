@@ -5,17 +5,27 @@ owner:
   hid: "fa18-523-86"
   community: "i523"
   semester: fa18
+  online: "Yes"
+  
+profile: 
+  - url: https://github.com/jeffliuhai
+  
+notebook: 
+- url: https://github.com/cloudmesh-community/fa18-523-86/blob/master/notebook.md
+  
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cloudability.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/facebook-tao.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/gffs.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/saltstack.md
+
 paper:
-  - title: SAP
+    title: SAP
     keyword: SAP
     url: https://github.com/cloudmesh-community/fa18-523-86/tree/master/paper/paper.md
+
 project:
-  - title: Big data in SAP Ariba 
+    title: Big data in SAP Ariba 
     keyword: Big data
     url: https://github.com/cloudmesh-community/fa18-523-86/blob/master/project-report/report.md
     group: fa18-523-86   
